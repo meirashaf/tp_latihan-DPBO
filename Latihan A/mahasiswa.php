@@ -64,5 +64,8 @@
             echo "Program Studi : ".$this->prodi."<br>";
             echo "Semester : ".$this->Semester."<br>";
         }
+
+        public function __destruct(){
+        }
     }
 ?>
