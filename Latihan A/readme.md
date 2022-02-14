@@ -5,5 +5,5 @@ Terakhir dibuat fungsi untuk menampilkan output bernama `print`. Fungsi ini dibu
 
 Selanjutnya pada file _index.php_ diinstansiasi 4 objek mahasiswa, lalu dipanggil fungsi `print` untuk menampilkan output.
 
-Hasil program:
+Hasil program:<br>
 ![image](https://user-images.githubusercontent.com/71260611/153882406-c7927391-aa40-4b41-8a62-a5c2549edf11.png)
