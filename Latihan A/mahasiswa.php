@@ -65,6 +65,7 @@
             echo "Semester : ".$this->Semester."<br>";
         }
 
+        // destructor
         public function __destruct(){
         }
     }
