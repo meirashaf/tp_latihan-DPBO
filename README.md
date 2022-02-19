@@ -8,5 +8,5 @@ Latihan ke-2 dari mata kuliah DPBO 2022
 
 Disebabkan pada semua bahasa yang digunakan memiliki desain yang hampir sama, diputuskan untuk hanya membuat 1 file `README.md` yang sudah mencakup semua desain serta hasil program.
 
-##Java
+##Java<br>
 <img width="244" alt="image" src="https://user-images.githubusercontent.com/71260611/154812241-101a0df8-d58b-47ae-bf58-7d387253bc17.png">
