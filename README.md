@@ -6,9 +6,9 @@ Latihan ke-2 dari mata kuliah DPBO 2022
 Disebabkan pada semua bahasa yang digunakan memiliki desain yang hampir sama, diputuskan untuk hanya membuat 1 file `README.md` yang sudah mencakup semua desain serta hasil program.
 
 ## Desain 
-Program dirancang dengan product sebagai parent paling utama, lalu diikuti hardware, dan terakhir yaitu memory. 
+Program dirancang dengan `product` sebagai parent paling utama, lalu diikuti `hardware`, dan terakhir yaitu `memory`. 
 
-Pada main, semua instansiasi dilakukan menggunakan method setter. Pertama, parent mengakses method yang dimiliki sendiri, hingga seterusnya child mengakses method miliknya sendiri serta semua method yang dimiliki oleh parent-parentnya.
+Pada main, semua instansiasi dilakukan menggunakan method setter. Pertama, `parent` mengakses method yang dimiliki sendiri, hingga seterusnya child mengakses method miliknya sendiri serta semua method yang dimiliki oleh parent-parentnya.
 
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/71260611/154809858-43092903-f750-484f-b5ff-0832a39ff9a9.png">
 
@@ -18,3 +18,9 @@ Pada main, semua instansiasi dilakukan menggunakan method setter. Pertama, paren
 
 ## C++<br>
 <img width="188" alt="image" src="https://user-images.githubusercontent.com/71260611/154815810-dbdd184b-78b7-4d5a-8614-960690b2fd19.png">
+
+## Python<br>
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/71260611/154841604-76d2963a-f3ba-4e32-8b68-c9429e66cbaa.png">
+
+## PHP<br>
+<img width="182" alt="image" src="https://user-images.githubusercontent.com/71260611/154847231-05a95328-d1d0-4dd0-b987-382a6c126913.png">
