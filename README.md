@@ -16,12 +16,16 @@ Program dirancang dengan `processor`, `disk`, dan `ram` dapat dideklarasikan den
 Selanjutnya pada file `index/main` diinstansiasi 3 objek sesuai dengan seluruh class yang ada (bukan `pc`). Semua instansiasi dilakukan menggunakan method constructor. Pertama, 3 kelas mendeklarasikan objek, lalu diikuti dengan `pc` mendeklarasikan kelas-kelas tersebut.
 
 Rancangan composition:<br>
+![image](https://user-images.githubusercontent.com/71260611/155890113-13f0e6f1-3267-4968-b56c-e85304310145.png)
 
 ## Java<br>
+![image](https://user-images.githubusercontent.com/71260611/155884773-ac338e31-e53d-46b5-8ce7-82a4928dc7b7.png)
 
 ## C++<br>
 ![image](https://user-images.githubusercontent.com/71260611/155854812-a7d6b9f6-32d5-4132-9e45-59f95369d07c.png)
 
 ## Python<br>
+![image](https://user-images.githubusercontent.com/71260611/155888970-69334dc2-5b18-484d-9dfa-9b956c6481f1.png)
 
 ## PHP<br>
+![image](https://user-images.githubusercontent.com/71260611/155889938-4374d682-7cf5-47d7-97e7-952fd77b6ebf.png)
