@@ -13,13 +13,13 @@ Dibuat 6 kelas dengan atribut-atribut sebagai berikut:
 6. Driver : lisenceID, activeUntil, vehicleType
 <br>Pada setiap kelas dibuat deklarasi atribut, constructor, setter dan getter, serta untuk menampilkan output.
 
-Program ini menggunakan prosedur **hybrid inheritance** dengan rincian sebagai berikut:
+Program ini menggunakan prosedur **hybrid inheritance** yang merupakan gabungan dari hierarchical inheritance dan multiple inheritance, dengan rincian sebagai berikut:
 - `vehicle` sebagai parent dari `ship` dan `airplane` karena ship dan airplane merupakan tipe kendaraan
 - `ship` dan `airplane` sebagai parent dari `driver` karena driver adalah sebuah pekerjaan yang mengemudi sebuah kendaraan seperti ship atau airplane
 - `driver` dan `person` sebagai parent dari `job` karena job terdiri dari identitas seorang person serta tipe pekerjaan yaitu driver/pengemudi
 
-Program ini juga dibuat agar data dapat diturunkan melalui objek parameter, agar tidak perlu menulis data berulang kali. Desain dari program ini adalah seperti berikut:<br>
-![image](https://user-images.githubusercontent.com/71260611/156931635-5a7157fe-437d-4b5b-8fee-351d817735cc.png)
+Program ini juga dibuat agar data dapat diturunkan melalui objek parameter, agar tidak perlu menulis data berulang kali. Desain dari program ini adalah seperti berikut, dengan ketentuan: kotak **merah** merupakan hierarchical inheritance dan kotak **biru** merupakan multiple inheritance. <br>
+![image](https://user-images.githubusercontent.com/71260611/156938412-89bb13f2-1152-44d0-945b-975d668a5415.png)
 
 ### Data Vehicle
 ![image](https://user-images.githubusercontent.com/71260611/156936827-d560f2fc-e953-4c89-a717-433afc9fec28.png)
