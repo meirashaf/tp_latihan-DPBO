@@ -358,6 +358,10 @@ public class Menu extends javax.swing.JFrame {
         addButton.setText("Add");
         delButton.setVisible(false);
         this.isUpdate = false;
+        fieldNIM.setText("");
+        fieldNama.setText("");
+        fieldNilai.setText("");
+
     }//GEN-LAST:event_cancelButtonActionPerformed
 
     /**
