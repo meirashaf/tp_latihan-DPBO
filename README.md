@@ -1,6 +1,6 @@
 # TP2DPBO2022
 
-*Saya Shafa Meira W. 2007723 mengerjakan Latihan 1 dalam mata kuliah Design dan Pemrograman Berbasis Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin*
+*Saya Shafa Meira W. 2007723 mengerjakan TP 2 dalam mata kuliah Design dan Pemrograman Berbasis Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin*
 
 ### Utama
 ![image](https://user-images.githubusercontent.com/71260611/164055099-eea69183-ff8f-4451-b2f9-4d20a5ffdf2b.png)
