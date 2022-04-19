@@ -1,6 +1,6 @@
 # LATIHAN9DPBO2022
 
-*Saya Shafa Meira W. 2007723 mengerjakan Latihan 1 dalam mata kuliah Design dan Pemrograman Berbasis Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin*
+*Saya Shafa Meira W. 2007723 mengerjakan Latihan 9 dalam mata kuliah Design dan Pemrograman Berbasis Objek untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin*
 
 ### Utama
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/71260611/163833128-1a846eb3-ea7e-4e92-84fa-372c00bac886.png">
